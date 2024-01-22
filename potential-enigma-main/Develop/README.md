@@ -1,7 +1,11 @@
 # Hi
 
+## License
+![License](https://img.shields.io/badge/license-BSD-3-Clause-brightgreen)
+This application is covered under the BSD-3-Clause license.
+
 ## Description
-it mean hello
+hi description 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,21 +16,20 @@ it mean hello
 - [Questions](#questions)
 
 ## Installation
-just say it 
+installation instructions 
 
 ## Usage
-use your mouth
+info 
 
-## License
-![License](https://img.shields.io/badge/license-Apache-2.0-brightgreen)
-This application is covered under the Apache-2.0 license.
+
+
 
 ## Contributing
-you know it
+guidelines
 
 ## Tests
-can you hear em say it
+test instructions 
 
 ## Questions
-If you have any questions, you can reach me on GitHub: [lebarn james](https://github.com/lebarn james)
-or contact me via email: labarnjames at gmail
+If you have any questions, you can reach me on GitHub: [yo](https://github.com/yo)
+or contact me via email: yo@gmail.com

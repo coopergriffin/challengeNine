@@ -76,6 +76,10 @@ function init() {
         // Generate README content based on user input
         const readmeContent = `# ${answers.title}
 
+## License
+${licenseBadge}
+This application is covered under the ${answers.license} license.
+
 ## Description
 ${answers.description}
 
@@ -93,9 +97,8 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 
-## License
-${licenseBadge}
-This application is covered under the ${answers.license} license.
+
+
 
 ## Contributing
 ${answers.contributing}
@@ -115,6 +118,3 @@ or contact me via email: ${answers.email}
 
 // Function call to initialize app
 init();
-
-
-console.log("Hello");

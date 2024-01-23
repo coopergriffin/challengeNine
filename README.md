@@ -1,8 +1,10 @@
 # Module 9 Challenge Carleton Software Development
 
+VIDEO FILE LINK ---> 
+
 ## License
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
-This application is covered under the MIT license.
+This application is covered under the MIT license. (Not true just example from using the app)
 
 ## Description
 CLI Application that creates professional README.md files for github repositories

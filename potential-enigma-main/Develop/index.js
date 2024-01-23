@@ -64,6 +64,8 @@ function generateLicenseBadge(license) {
     if (license === 'None') {
       return '';
     }
+    //Replaces spaces with - so proper img would be shown for licenses that have spaces in the name
+    const licenseSlug = encodeURIComponent(license.replace(/ /g, '_'));
     return `![License](https://img.shields.io/badge/license-${encodeURIComponent(license)}-brightgreen)`;
   }
   
